@@ -156,7 +156,7 @@ NAVIGATION_ALT_LINKS = {
 #THEME = "bootblog4"
 #THEME = "dark"
 THEME="hack" 
-#GLOBAL_CONTEXT['HACK_VARIANT'] = 'dark'
+GLOBAL_CONTEXT['HACK_VARIANT'] = 'dark'
 # Primary color of your theme. This will be used to customize your theme.
 # Must be a HEX value.
 THEME_COLOR = '#5670d4'
